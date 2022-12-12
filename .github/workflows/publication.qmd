@@ -1,0 +1,8 @@
+---
+title: "Publication"
+editor: visual
+---
+
+Tian L, Fang W, Patrick L, Jung-A A W, Mohammed Zaheen B, Kyung Woo H, Courtney T, David K. Cofilin-mediated Neuronal Apoptosis via p53 Translocation and PLD1 Regulation. *Scientific Reports*. 2017;7:11532.
+
+Guo X, Eitnier RA, Beard RS Jr, Meegan JE, Yang X, Aponte AM, Wang F, Melson PR, Wu MH. Focal Adhesion Kinase and Src Mediate Microvascular Hyperpermeability Caused by Fibrinogen-rC-terminal Fragments. *PLoS One*. 2020 Apr 30;15(4):e0231739.

@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Fang Wang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publication.qmd
+        text: Publication
+format:
+  html:
+    theme: pulse
+    css: styles.css
+
+editor: visual
+
+

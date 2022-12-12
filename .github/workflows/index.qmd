@@ -1,0 +1,24 @@
+---
+title: "Fang Wang"
+about:
+  template: trestles
+  image: Fang Wang.jpg
+  image-width: 10em
+  image-shape: round
+---
+
+Fang Wang works as a Research Assistant at the department of Mechanical & Aerospace Engineering of Case Western Reserve University. She is good at using various biological techniques to investigate the underlying causes and pathophysiology of diseases. She also participates in the part-time Master of Biostatistics program at Case Western Reserve University.
+
+## Education
+
+Seoul National University, Seoul \| South Korea \| MS in Medicine \| February 2014
+
+Shandong First Medical University (Taishan Medical University), Shandong Province \| China \| MD \| July 2010
+
+## Experience
+
+Case Western Reserve University \| Research Assistant \| August 2021 - present
+
+University of South Florida \| Research Assistant \| August 2015 - June 2021
+
+------------------------------------------------------------------------
